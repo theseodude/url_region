@@ -1,0 +1,26 @@
+[
+ {
+  "Region": "France",
+  "urlimg": "https://3.bp.blogspot.com/--OXsRx_PamQ/XNo0bdEVgiI/AAAAAAAAAQg/w8Rm4ZaFY6cjgwDyNPOG4U5CB8m22PHfACLcBGAs/w70/1.jpg",
+  "alt": "BFM Paris HD Live",
+  "urlm3u8": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on"
+ },
+ {
+  "Region": "France",
+  "urlimg": "https://1.bp.blogspot.com/-ZsuPiabpg2Y/X_peWwJJiVI/AAAAAAAAB3g/fHygs1Y_NB4_O_Uf3E76OHGmG2ahrA96ACLcBGAsYHQ/w70/BFMGrandLille-logo-tvzila.jpg",
+  "alt": "BFM Lille",
+  "urlm3u8": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8'"
+ },
+ {
+  "Region": "Maroc",
+  "urlimg": "https://1.bp.blogspot.com/-VjUFO0XTZF0/YAyiqlFWkeI/AAAAAAAAB7c/T1bPh2YH2ukHtbtL4vV1g6sZIeAUd3DywCLcBGAsYHQ/w70/Al-Aoula-tv-logo-TVZILA.png",
+  "alt": "Al Aoula TV maroc",
+  "urlm3u8": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+ },
+ {
+  "Region": "Maroc",
+  "urlimg": "https://1.bp.blogspot.com/-sJuSjiO3s88/YAyir4y1GjI/AAAAAAAAB70/R5Ru6oh7MvgjsXTHw60hkUAjRXGS9zwPQCLcBGAsYHQ/w70/arryadia_tv_logo_TVZILA.png",
+  "alt": "Arryadia tv maroc logo",
+  "urlm3u8": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+ }
+]
